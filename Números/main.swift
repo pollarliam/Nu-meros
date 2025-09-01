@@ -12,7 +12,6 @@ import Foundation
 // Após isso criamos o readnumbers para ler os conteúdos de url
 // Após isso criamos o numbers para guardar os conteúdos em String.
 // Adicionamos três métodos em numbers: o components para separar cada string por quebra de linha, o compactMap para mudar os strings para integers, e finalmente usamos o método .sorted para ajeitar os números de forma crescente.
-// Após isso
 // ref: https://developer.apple.com/documentation/swift/array/sorted() https://www.hackingwithswift.com/read/5/2/reading-from-disk-contentsof https://www.hackingwithswift.com/example-code/system/how-do-you-read-from-the-command-line https://stackoverflow.com/questions/25006235/how-to-benchmark-swift-code-execution
 
 print("Digite PATH do arquivo. Insira um arquivo txt com números separados por quebra de linha.")
